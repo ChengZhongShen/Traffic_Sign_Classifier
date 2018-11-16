@@ -48,7 +48,7 @@ The goals / steps of this project are the following:
 ---
 
 
-You're reading it! and here is a link to my [project code](https://github.com/ChengZhongShen/Traffic_Sign_Classifier/)
+You're reading it! and here is a link to my [project code](./Traffic_Sign_Classifier.ipynb)
 
 ### Data Set Summary & Exploration
 
@@ -223,7 +223,7 @@ below is the images resize to 32*32 which will feed to the trained neronetwork.
 Here are the results of the prediction:
 
 | Image 		                |     Prediction	        					| 
-|:------------------        ---:|:---------------------------------------------:| 
+|:-----------------------------:|:---------------------------------------------:| 
 | 12 Priority road	        	| 12 Priority road								| 
 | 15 No Vehicles            	| 15 No Vehicles								|
 | 17 No Entry		        	| 17 No Entry   								|
@@ -241,8 +241,6 @@ Here are the results of the prediction:
 The model was able to correctly guess 11 of the 12 traffic signs, which gives an accuracy of 91.7%.  It maybe will be better if crop the image include more sign area.
 
 #### 3. The Softmax problity
-
-The code for making predictions on my final model is located in the 11th cell of the Ipython notebook.
 
 For most of the image, the model is relatively make a good prodiction, from the bar chart in below, 11 of them have the problity > 0.8, except the 9th image.(first row is the 5 highest probilty, the second row is the test images.)
 

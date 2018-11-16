@@ -42,14 +42,6 @@ The goals / steps of this project are the following:
 [image20]: ./examples_2/read_me_pictures/feature_map_3.png "image_prob"
 
 
-## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
-
----
-
-
-You're reading it! and here is a link to my [project code](./Traffic_Sign_Classifier.ipynb)
-
 ### Data Set Summary & Exploration
 
 #### 1. Data Set Summary
